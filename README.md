@@ -20,26 +20,7 @@ Bootstrap<br>
 IcoFont<br>
 Google fonts<br>
 
+### Log de Alterações
 
-<details>
-<summary>Introdução</summary>
-<br>
-<br><br>
-<pre>
-Silveira advogados é um projeto para portfólio de site institucional para advogados responsivo e dinâmico.  
-</pre>
-</details>
-
----
-
-<details>
-<summary>Log de Alterações</summary>
-<br>
-<br><br>
-<pre>
 Log 1.1 
 - Implementado framework codeigniter 4
-</pre>
-</details>
-
-
