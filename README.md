@@ -1,7 +1,7 @@
 # Site Institucional Silveira Advogados
 
 Projeto - Silveira Advogados
-Versão - 1.0
+Versão - 1.1 - 28-11-2023
 
  ***
 
@@ -15,6 +15,7 @@ Versão - 1.0
 
 ### Frameworks e Bibliotecas
 
+Codeigniter4<br>
 Bootstrap<br>
 IcoFont<br>
 Google fonts<br>
@@ -32,42 +33,13 @@ Silveira advogados é um projeto para portfólio de site institucional para advo
 ---
 
 <details>
-<summary>Estrutura da Pasta Assets</summary>
+<summary>Log de Alterações</summary>
 <br>
 <br><br>
 <pre>
-Na pasta assets estão todos os arquivos de imagem e estilização dos site.
-css
-images
-js
-plugins
-scss
+Log 1.1 
+- Implementado framework codeigniter 4
 </pre>
 </details>
 
----
-
-<details>
-<summary>Estrutura da Pasta Pages</summary>
-<br>
-<br><br>
-<pre>
-Na pasta pages você encontra todas as páginas do projeto.
-
-</pre>
-</details>
-
----
-
-<details>
-<summary>Estrutura da Pasta Includes</summary>
-<br>
-<br><br>
-<pre>
-Na pasta includes, incluímos todos os arquivos referentes a configurações.
-
-</pre>
-</details>
-
----
 
