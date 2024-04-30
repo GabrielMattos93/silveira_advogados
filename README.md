@@ -10,6 +10,7 @@ Versão - 1.2 - 30-04-2024
  Html5<br>
  CSS3 <br>
  Javascript<br>
+ PHP<br>
 
 
 ### Frameworks e Bibliotecas
@@ -17,6 +18,7 @@ Versão - 1.2 - 30-04-2024
 Bootstrap5<br>
 Google fonts<br>
 Fontawesome<br>
+Codeigniter 4<br>
 
 ### Plugins
 
@@ -30,3 +32,4 @@ Log 1.1
 
 Log 1.2
 - Novo layout totalmente reformulado desenvolvido com bootstrap 5
+- Implementado framework codeigniter 4 com melhoria na estrutura
